@@ -8,12 +8,12 @@ import os
 
 # dicom series  2 paramters
 
-in_path_images = 'C:/Users/Omar/Task02_Heart/decomGroups/images/*'
+in_path_images = 'C:/Users/Admin/Task02_Heart/decomGroups/images/*'
 # contains images and labels
-in_path_labels= 'C:/Users/Omar/Task02_Heart/decomGroups/labels/*'
+in_path_labels= 'C:/Users/Admin/Task02_Heart/decomGroups/labels/*'
 
-out_path_images='C:/Users/Omar/Task02_Heart/nifti_files/images'
-out_path_labels='C:/Users/Omar/Task02_Heart/nifti_files/labels'
+out_path_images='C:/Users/Admin/Task02_Heart/nifti_files/images'
+out_path_labels='C:/Users/Admin/Task02_Heart/nifti_files/labels'
 
 
 
