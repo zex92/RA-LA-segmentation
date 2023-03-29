@@ -4,8 +4,8 @@ import os
 
 
 
-in_file = 'C:/Users/Omar/Task02_Heart/decomFiles/images'
-out_file = 'C:/Users/Omar/Task02_Heart/decomGroups/images'
+in_file = 'C:/Users/Admin/Task02_Heart/decomFiles/images'
+out_file = 'C:/Users/Admin/Task02_Heart/decomGroups/images'
 
 
 # returns the patient
