@@ -47,7 +47,7 @@ def prepering(data_dir, datacache=False, left=True):
         important in order to be able to train the model.
     """
     # main part
-    # data_dir = 'C:/Users/Omar/Task02_Heart'
+    # data_dir = 'C:/Users/Admin/Task02_Heart'
     # joins multiple paths
 
 
