@@ -33,10 +33,7 @@ if value.lower() == "left":
 else:
     left = False
 
-# data_dir = "C:/Users/Omar/Task02_Heart" # change to new directory  -> C:/Users/Omar/Desktop/left_atrium_data
 
-
-# model_dir = "C:/Users/Omar/Task02_Heart/results" # change  -> C:/Users/Omar/Desktop/left_atrium_data/results
 data_dir="C:/Users/Admin/Heart_project/Heart_segmentation/DATA"
 
 if left == True:
