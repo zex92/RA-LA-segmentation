@@ -7,7 +7,7 @@ from glob import glob
 # checks if a label is 0 means its empty
 
 # loads the label data
-input_nifti_file_path="C:/Users/Omar/Desktop/left_atrium_data/LA_labels"
+input_nifti_file_path="C:/Users/Admin/Desktop/left_atrium_data/LA_labels"
 # path contains multiple files
 
 list_labels=glob(input_nifti_file_path)
