@@ -27,7 +27,7 @@ def unzip_gz():
         image_path=str(data_path)+"/atriumSegImgMO.nii.gz"
         label_path=data_path+"/enhanced.nii.gz"
         #if i==0:
-        #print(str("C:\Users\Omar\IdeaProjects\Heart_Segmentation\Heart_segmentation\dataset\task2\train_data\train_1/atriumSegImgMO.nii.gz") == image_path)
+        #print(str("C:\Users\Admin\IdeaProjects\Heart_Segmentation\Heart_segmentation\dataset\task2\train_data\train_1/atriumSegImgMO.nii.gz") == image_path)
         print(image_path)
 
         #gzip.compress(data_path)
